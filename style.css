@@ -52,7 +52,7 @@ section.imagem {
 
 section.imagem > p {
     width: 400px;
-    background-color: rgb(96, 96, 187);
+    background-color: blue;
 }
 
 footer {
